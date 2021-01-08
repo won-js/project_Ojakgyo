@@ -1,6 +1,7 @@
 # :bird: 오작교:bird:
 ### 무명의 미술인들이 자신을 알리고 작품을 전시할 수 있는 커뮤니티 서비스
 
+<br>
 ## 📚 프로젝트 설명
 ### <strong> A Window Of Opportunity <br> </strong>
 현재 국내외 힙합씬에서 TOP이라고 불리는 빈지노와 포스트 말론은 모두 사운드 클라우드 출신이며, 사운드 클라우드에 음악을 올리고 이를 계기로 유명세를 얻게 되었다.
@@ -9,8 +10,8 @@
 
 ### <strong> Connect With<br>  </strong>
 미술가와 관람객들의 까치와 까마귀가 되어 오작교를 만들어 주고자합니다.
-<br>
 
+<br>
 ## 📝 사용언어, 기술스택
 - Platform : Web
 - Language : Java, JavaScript
