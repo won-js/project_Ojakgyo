@@ -31,9 +31,9 @@
 
 
 <br>
-## 👩‍💻 팀원 소개
-#### • :japanese_goblin: 유정호(Project Maneger) : 로그인/회원 가입 구현, 게시물 검색 기능, DB 모델링 
-#### • :boy: 원준수(Backend) : 댓글 기능, 게시물 작성 기능, DB 모델링, 비동기 처리
-#### • :man: 박성우(Frontend) : 프로필 기능, 게시물 삭제 기능, 비동기 처리
-#### • 👩🏻‍🦰 김지수(Frontend) : 크로스 브라우징, 비동기 처리, UI/UX 구현 
+## 팀원 소개  
+- :japanese_goblin: 유정호(Project Maneger) : 로그인/회원 가입 구현, 게시물 검색 기능, DB 모델링 
+- :boy: 원준수(Backend) : 댓글 기능, 게시물 작성 기능, DB 모델링, 비동기 처리
+- :man: 박성우(Frontend) : 프로필 기능, 게시물 삭제 기능, 비동기 처리
+- :girl: 김지수(Frontend) : 크로스 브라우징, 비동기 처리, UI/UX 구현 
 
